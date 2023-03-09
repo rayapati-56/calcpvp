@@ -1,5 +1,5 @@
 {
-    "name":"calcpvpsit",
+    "name":"calcpvpsit50",
     "version":"0.0.1",
     "main":"calc",
     "repository":{
@@ -7,7 +7,7 @@
         "url":"https://github.com/rayapati-56/calcpvp"
     },
     "keywords":[
-        "calc","calcpvp","psk"
+        "calc","calcpvp","psk","pvpsit50"
     ],
     "dependencies":{},
     "engines":{
