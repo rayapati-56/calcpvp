@@ -1,0 +1,16 @@
+{
+    "name":"calcpvp",
+    "version":"0.0.1",
+    "main":"calc",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/rayapati-56/calcpvp"
+    },
+    "keywords":[
+        "calc","calcpvp","psk"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
